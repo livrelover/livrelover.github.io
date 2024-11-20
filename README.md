@@ -5,7 +5,7 @@
 <head>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans"
           rel="stylesheet" />
-    <link href="style.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <title>My test page</title>
@@ -13,7 +13,7 @@
 <body>
     <h1>个人介绍网页</h1>
     <h2>黄新雄的个人介绍</h2>
-    <img src="p1.jpg" alt="the main picture" />
+    <img src="images/p1.jpg" alt="the main picture" />
     <p>来自江西省吉安市</p>
 
     <ul>
@@ -25,6 +25,6 @@
     <p>enjoying life~</p>
     <button>Change user</button>
 
-    <script src="main.js"></script>
+    <script src="scripts/main.js"></script>
 </body>
 </html>
